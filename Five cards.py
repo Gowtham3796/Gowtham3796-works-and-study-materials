@@ -201,15 +201,3 @@ while not shallweendthegame:
                         
                             if cwetg=="no":
                                 shallweendthegame=True
-
-
-
-
-
-
-
-
-
-
-
-
